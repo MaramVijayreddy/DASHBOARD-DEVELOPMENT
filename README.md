@@ -61,6 +61,8 @@ Customer & Product details
 
 
 🛠️ Tools Used
+
+
 Power BI Desktop – For data modeling and dashboard creation
 
 MS Excel – For light data cleaning and checking
@@ -69,6 +71,8 @@ MS Excel – For light data cleaning and checking
 Power Query – For transforming and loading data
 
 📈 Key Dashboard Insights
+
+
 Here’s what was explored and visualized using Power BI:
 
 💰 Top-performing products and categories
@@ -86,6 +90,8 @@ Here’s what was explored and visualized using Power BI:
 🔍 Dynamic filtering by segment, region, etc.
 
 🖼️ Output Snapshots
+
+
 Image	Description
 Dashboard Page 1 - Key Visualizations
 Dashboard Page 2 - Drill-down Analysis
@@ -103,6 +109,8 @@ Explored visual best practices for executive-level reporting
 Improved knowledge of Power BI, DAX, and Data Modeling
 
 📦 Applications in the Real World
+
+
 Retail & E-commerce – Analyze sales, product trends
 
 Business Intelligence – Executive dashboards for strategic decisions
