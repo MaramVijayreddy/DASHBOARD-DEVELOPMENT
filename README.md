@@ -89,6 +89,8 @@ Here’s what was explored and visualized using Power BI:
 
 🔍 Dynamic filtering by segment, region, etc.
 
+
+
 🖼️ Output Snapshots
 
 
@@ -96,6 +98,60 @@ Here’s what was explored and visualized using Power BI:
 
 
 ![Image](https://github.com/user-attachments/assets/bb7af2fa-94bc-43d3-bc75-eda944ecc5e7)
+
+
+
+
+
+
+## 📊 What’s Inside the Dashboard?
+
+
+
+# 🔹 Page 1: Global Overview
+
+
+
+- **Bar Chart:** Sales by Country and Shipping Method  
+
+
+- **Pie Chart:** Sales by Discount %  
+
+
+- **Column Chart:** Number of Countries by Market  
+
+
+
+- **Funnel Chart:** Order Priority Breakdown
+
+
+
+# 🔹 Page 2: Deeper Insights
+
+
+- **Line Graph:** Count of Orders by Country  
+
+
+- **Bar Graph:** Region-wise Ship Mode usage  
+
+
+- **Combo Chart:** Shipping Cost vs Sales by Product  
+
+
+
+# ✨ Key Insights
+
+
+- **Asia Pacific** leads in country count by market.
+
+
+- **France** and **Germany** show high sales, especially through Standard and First Class shipping.
+
+
+- **0% Discount** transactions contribute to over **60% of total sales**.
+
+
+- High-priority orders are dominant, while critical orders are the least.
 
 
 
