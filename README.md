@@ -92,9 +92,11 @@ Here’s what was explored and visualized using Power BI:
 🖼️ Output Snapshots
 
 
-Image	Description
-Dashboard Page 1 - Key Visualizations
-Dashboard Page 2 - Drill-down Analysis
+![Image](https://github.com/user-attachments/assets/0b56f102-4cdc-4b9e-bf9d-4f442560903b)
+
+
+![Image](https://github.com/user-attachments/assets/bb7af2fa-94bc-43d3-bc75-eda944ecc5e7)
+
 
 
 ✅ Summary & Learning
