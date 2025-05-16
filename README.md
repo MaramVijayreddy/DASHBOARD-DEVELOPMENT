@@ -5,7 +5,7 @@
 
 COMPANY: CODTECH IT SOLUTIONS
 
-👨‍💻 Name: Vijayreddy Maram
+👨‍💻 Name:   MARAM VIJAY REDDY
 
 🆔 Intern ID: CT06DA368
 
